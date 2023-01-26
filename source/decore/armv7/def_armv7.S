@@ -46,8 +46,4 @@ _\name:
 .endm
 #endif
 
-#if defined(__APPLE__) || defined(__ANDROID__)
-#define BIT_DEPTH 8
-#endif
-
 
